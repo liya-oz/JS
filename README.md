@@ -1,6 +1,6 @@
 # Prep exercise - traffic light
 
-This repository contains four JavaScript files that simulate the operation of a traffic light. The primary goal was to practice logic and loops.
+This repository contains four JavaScript files that simulate the operation of a traffic light. The primary goal was to practice JS logic and loops structures.
 
 ---
 
