@@ -1,4 +1,4 @@
-# Prep Exercise - Traffic Light
+# Prep Exercise
 
 This repository contains folders with weekly preparation exercises. The primary goal was to practice JavaScript logic, loops, and scope structures.
 
