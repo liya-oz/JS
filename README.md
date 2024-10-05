@@ -1,6 +1,6 @@
 # Prep Exercise
 
-This repository contains folders with weekly preparation exercises. The primary goal was to practice JavaScript logic, loops, and scope structures.
+This repository contains folders with weekly preparation exercises. 
 
 ## Week 1
 
@@ -27,5 +27,6 @@ Week 2 contains two JavaScript files:
 - **`traffic-light.js`**: This file simulates a traffic light in a different way from the Week 1 examples.
 - **`index.js`**: This file uses the `Math.random()` function to simulate rolling a die. The goal is to test how well `Math.random()` distributes values evenly across the range of 0 to 1 over many iterations. We will perform this simulation for increasing sample sizes and expect the results to approach 16.6% for each value (1 through 6).
 
+## Week 3-4 (description will be added)
 
 Feel free to review the files and provide feedback on the implementation.
